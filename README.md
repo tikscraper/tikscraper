@@ -6,6 +6,7 @@
 - 😄 AutoBackup all your videos, forever. You can then download them anytime
 - ⚡ Repurpose all videos so they can be reused again on TikTok or other channels
 
+- You can try all our tool 14 days 100% FREE with no credit/debit card required!
 <!---
 tikscraper/tikscraper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
